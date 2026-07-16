@@ -14,7 +14,7 @@
 
 <br>
 
- 𓆩⚜𓆪 Colección de certificados obtenidos durante mi formación en Bug Bounty, Web Hacking y Seguridad Ofensiva. Este apartado refleja mi aprendizaje continuo en la identificación de vulnerabilidades, explotación de aplicaciones web y metodologías utilizadas en programas de Bug Bounty.<br><br>
+ 𓆩⚜𓆪 Certificados SSL/TLS utilizados en procesos de recon para Bug Bounty, enfocados en la enumeración de dominios, subdominios, SANs e información de infraestructura.<br><br>
 
 ✦ Es la colección de informes más completa que pude lograr, buscando en diferentes rincones de Internet.<br><br>
 
