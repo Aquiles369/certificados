@@ -34,22 +34,25 @@
 
 <br><br>
 
-**✦ En esta sección encontrarás 10 informes reales sobre Certificados y casos generales de bug bounty que leí, estudié y guardé en mi gestor personal de informes para bug bounty.**
+**✦ En esta sección encontrarás 13 informes reales sobre Certificados y casos generales de bug bounty que leí, estudié y guardé en mi gestor personal de informes para bug bounty.**
 <br><br>
 
 
 ## ꧁ Lista de informes link directo ꧂
 ```yam
-https://medium.com/@0xmekky/ips-asn-cidr-when-the-game-is-the-network-we-play-the-map-how-target-com-fbaafdb66f0b
-https://freedium-mirror.cfd/https://medium.com/@BrownBearSec/bug-bounty-recon-horizontal-correlation-b7c81a32951a
-https://brutsecurity.medium.com/from-zero-to-recon-your-first-asn-based-scanning-workflow-b08c88709410
-https://medium.com/red-teaming-with-a-blue-team-mentality/basic-recon-starting-with-a-domain-name-17b58027c263
-https://medium.com/@ayushmohansah/a-comprehensive-vapt-methodology-applied-in-practical-security-assessments-20057a71112d
-https://medium.com/@maverickcx64/amass-subdomain-enumeration-a-bug-hunters-guide-3271ab5bf597
-https://medium.com/@Hackbyknowledge/subdomain-enumeration-recon-with-chaos-amass-alterx-more-2ba50614d6dd
-https://medium.com/@arashaddodhiya4948/how-i-discovered-100-assets-without-scanning-a-single-port-b4a624d76134
-https://djislucid.medium.com/subdomain-and-ip-reconnaissance-a-bug-bounty-journal-7541e278e5c2
-https://medium.com/@realm3ter/cidr-in-hacking-d2e6245d74ec
+https://freedium-mirror.cfd/https://meetcyber.net/sslscan-guide-how-to-audit-ssl-tls-certificates-and-detect-critical-vulnerabilities-cca7b3bb25e0
+https://medium.com/@ghostlulzhacks/certificate-transparency-logs-86dfb924c32f
+https://medium.com/@N0aziXss/introducing-n0azixss-origin-recon-the-ultimate-asn-origin-detection-tool-94157afa4a29
+https://medium.com/@N0aziXss/the-reconnaissance-masterclass-advanced-information-gathering-for-modern-cybersecurity-a310eeda53bb
+https://freedium-mirror.cfd/https://meetcyber.net/ssl-treasure-maps-how-i-found-hidden-subdomains-in-crt-sh-and-how-hackers-exploit-them-475e1414d416
+https://medium.com/@scumdestroy/certifcates-f51eace48a7e
+https://osintteam.blog/subdomain-discovery-bug-bounty-guide-b496990820f9
+https://wolfsec1337.medium.com/the-ultimate-bug-bounty-recon-guide-from-zero-to-finding-critical-vulnerabilities-6f8e9a264fc6
+https://medium.com/@Asm0d3us/weaponizing-live-ct-logs-for-automated-monitoring-of-assets-39c6973177c7
+https://freedium-mirror.cfd/https://osintteam.blog/bug-bounty-bootcamp-51-certificate-transparency-dba8b9922675#search-by-domain-cn
+https://freedium-mirror.cfd/https://systemweakness.com/bug-bounty-recon-mastery-advanced-reconnaissance-and-attack-surface-mapping-v2-c18e0a6738c9
+https://medium.com/@MuhammedAsfan/certificate-transparency-a-technical-overview-and-osint-toolkit-%EF%B8%8F-30d4f556f7f8
+https://freedium-mirror.cfd/https://infosecwriteups.com/monitor-bug-bounty-targets-in-real-time-using-certificate-transparency-logs-247caa34d0f9
 
 ```
 <br>
